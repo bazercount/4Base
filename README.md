@@ -51,8 +51,8 @@ https://freecs.sourceforge.net/
 
 
 __________________________________
-(c) 2023 powered by CouNTiNG aka.
-bazercount || all rights are saved
+(c) 2023 powered by CouNTiNG aka. 
+bazercount || all rights reserved
 
 //////////////////////////////////
 
