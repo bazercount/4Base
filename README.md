@@ -59,13 +59,13 @@ bazercount || all rights are saved
          new project:
  https://www.explicitrecords.at/
  
-        old projects:
-        
-    https://www.4base.at/       (Music Label and WebRadio)
-    https://www.d2dragz.net/     (Diablo 2 Drag-Z Mod v1.3)
-     https://kampfbox.at/         (BrowserGame)
-     https://chat-area.at/         (Chat/WebRadio Community)
-
+        old projects:       __  
+                          /    \
+     https://www.d2dragz.net    \  Diablo 2 Drag-Z Mod v1.3 is still avaible: https://www.moddb.com/games/diablo-2-lod/addons/d2dragznet-v11-sfx
+     https://www.4base.at/  __   \ offline* Music Label and WebRadio
+     https://kampfbox.at  /____\  offline* BrowserGame)
+     https://chat-area.at/<<:::>>\  offline* Chat/WebRadio Community)
+                     /__/    :    \_/
 //////////////////////////////////
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
