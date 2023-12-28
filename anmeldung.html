@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registrierung</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div>
+    <h1>Registrierung LJLJ</h1>
+    <form action="anmeldeform.php" method="post" enctype="multipart/form-data">
+        <table>
+            <tr>
+                <td valign="top"><label for="benutzername">Benutzername:</label></td>
+                <td><input type="text" name="benutzername" required><br><br></td>
+            </tr>
+            <tr>
+                <td><label for="geburtsdatum">Geburtsdatum:</label></td>
+                <td><input type="date" name="geburtsdatum" required></td>
+            </tr>
+            <tr>
+                <td valign="top"><label for="bio">Biografie:</label></td>
+                <td><textarea name="bio" rows="4" cols="50"></textarea><br><br></td>
+            </tr>
+            <tr>
+                <td><label for="passwort">Passwort:</label></td>
+                <td><input type="password" name="passwort" required></td>
+            </tr>
+            <tr>
+                <td valign="top"><label for="passwort_wiederholen">Passwort wiederholen:</label></td>
+                <td><input type="password" name="passwort_wiederholen" required><br><br></td>
+            </tr>
+            <tr>
+                <td><label for="homepage1">Homepage 1:</label></td>
+                <td><input type="url" name="homepage1"></td>
+            </tr>
+            <tr>
+                <td><label for="homepage2"> </label></td>
+                <td><input type="url" name="homepage2"></td>
+            </tr>
+            <tr>
+                <td><label for="homepage3"> </label></td>
+                <td><input type="url" name="homepage3"></td>
+            </tr>
+            <tr>
+                <td><label for="homepage4"> </label></td>
+                <td><input type="url" name="homepage4"></td>
+            </tr>
+            <tr>
+                <td><label for="homepage5"> </label></td>
+                <td><input type="url" name="homepage5"><br><br><br></td>
+            </tr>
+            <tr>
+                <td><label for="email">E-Mail-Adresse:</label></td>
+                <td><input type="email" name="email" required><br><br></td>
+            </tr>
+        </table><br>
+    <label for="profilbild">Profilbild hochladen:</label>
+    <input type="file" name="profilbild" id="profilbild" required>
+
+        <input type="submit" value="Registrieren">
+    </form></div>
+</body>
+</html>

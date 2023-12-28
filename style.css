@@ -1,0 +1,40 @@
+/* style.css */
+p {
+  font-family: 'Verdana', sans-serif;
+}
+
+img {
+    border: 2px solid #000000;
+    }
+
+.image-container {
+  max-width: 340px; /* Maximale Breite für den Container */
+  margin: 1 auto; /* Zentriert den Container horizontal */
+}
+
+.image-container img {
+  width: 100%; /* 100% Breite des Containers */
+  height: auto; /* Automatische Höhe anpassen, um das Seitenverhältnis zu halten */
+  display: block; /* Entfernt Lücken unterhalb des Bildes */
+  /*border-radius:1px 2%; */
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 600pt;
+}
+
+div {
+  font-family: 'Verdana', sans-serif;
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+a:active { text-decoration: none; }
