@@ -1,12 +1,15 @@
 # 4Base
+
 Connection to MySQL/MariaDB Users [WordPress, PHPkit, Drupal, Typo3... and many more!] 
+
+ ----------------------------------------------------------------------------------------------------------------------
 - other Content Management Systems are tested like phpBB2 or Bulletin Boards. (may have to set md5_passwords = true)
 - connecting to User Databases via JBDC/OBDC.
 - the Java Chat system runs out of the Box from Command Line after setting up the config.php
- 
+
 - use IPADRESS:1976 if LOCALHOST:PORT does not work!
 - combined Setup with FreeCS [sourceforge](https://freecs.sourceforge.net/).
-
+  
 .. if you need help for correct installation of the Chat hit me up ;)
 
 
@@ -36,19 +39,48 @@ sudo java -cp ./lib/freecs.jar:./lib/xmlrpc-1.2-b1.jar:./lib/ext/mysql.jar freec
 (use nohup and u can close terminal/logout if you are on a VM, the Chat keeps running)
 
 
+
 Changes* (28.12.2023 18:18)
-
-
 - .. save disk space by deleting/overriting the profile.jpg with the upload function
 
 
 SYSTEM REQUIREMENTS: 256mb RAM, linux server
-
 Works with apache2, mariadb/mysql and java! .bat for Windows.
 
 https://freecs.sourceforge.net/
 
-https://www.4base.at/
-https://www.explicitrecords.at/
 
+__________________________________
+(c) 2023 powered by CouNTiNG aka.
+bazercount || all rights are saved
 
+//////////////////////////////////
+
+         new project:
+ https://www.explicitrecords.at/
+ 
+        old projects:
+        
+    https://www.4base.at/       (Music Label and WebRadio)
+    https://www.d2dragz.net/     (Diablo 2 Drag-Z Mod v1.3)
+     https://kampfbox.at/         (BrowserGame)
+     https://chat-area.at/         (Chat/WebRadio Community)
+
+//////////////////////////////////
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
