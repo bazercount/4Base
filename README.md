@@ -1,5 +1,21 @@
 # 4Base
+User Registration for FreeCS
 
+
+-create User Nickpages at Registration
+-added Guestbook Entries
+-added News Script
+-added Pointsystem (25 + 0.2 per written letter Gold for a Message)
+-added Area section for Missions/Quests 
+-added an Inventory for Items
+-added Stats/Attributes
+-added Weapon Generator and equip/unequip function
+
+
+*users can start a mission.php now
+*weapon.php to generate
+
+/users/userna
 Connection to MySQL/MariaDB Users [WordPress, PHPkit, Drupal, Typo3... and many more!] 
 
  ----------------------------------------------------------------------------------------------------------------------
